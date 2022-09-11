@@ -1,0 +1,15 @@
+/*
+ * ExtInt_configuration.h
+ *
+ *  Created on: Aug 15, 2022
+ *      Author: AhmedHamdy
+ */
+
+#ifndef MCAL_EXT_INT_EXTINT_CONFIGURATION_H_
+#define MCAL_EXT_INT_EXTINT_CONFIGURATION_H_
+
+#define EXT_INT0_SENSE_CONTROL FALLING_EDGE
+#define EXT_INT1_SENSE_CONTROL FALLING_EDGE
+#define EXT_INT2_SENSE_CONTROL FALLING_EDGE
+
+#endif /* MCAL_EXT_INT_EXTINT_CONFIGURATION_H_ */
